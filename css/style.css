@@ -41,3 +41,9 @@
   margin: 10px auto;
   max-width: 330px;
 }
+
+.card .links img {
+  width: 40px;
+  border-radius: 50%;
+  margin: 10px 5px;
+}
